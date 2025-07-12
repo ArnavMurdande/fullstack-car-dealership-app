@@ -1,1 +1,0 @@
-# fullstack-car-dealership-app
